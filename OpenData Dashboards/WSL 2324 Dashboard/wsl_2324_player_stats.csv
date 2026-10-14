@@ -1,0 +1,305 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+1,Princess Ademiluyi,eng ENG,FW,West Ham,17,2006,11,0,87,1,0,1,1,0,0,0,0,0,0,1.03,1.03,0,1.03,Matches,79196404
+2,Michelle Agyemang,eng ENG,FW,Arsenal,17,2006,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,1203e2c8
+3,Alyssa Aherne,eng ENG,MF,Everton,19,2004,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b870ea8d
+4,Olga Ahtinen,fi FIN,MFFW,Tottenham,25,1997,16,10,923,10.3,1,2,3,1,0,0,4,0,0.1,0.2,0.29,0.1,0.29,Matches,b4fb6508
+5,Asmita Ale,eng ENG,DF,Tottenham,21,2001,5,1,131,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9b894b48
+6,Asmita Ale,eng ENG,DF,Leicester City,21,2001,6,4,296,3.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,9b894b48
+7,Laia Aleixandri,es ESP,DF,Manchester City,22,2000,21,21,1810,20.1,1,3,4,1,0,0,3,1,0.05,0.15,0.2,0.05,0.2,Matches,31691fc9
+8,Filippa Angeldahl,se SWE,MF,Manchester City,26,1997,13,8,666,7.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,71c3bd53
+9,Mackenzie Arnold,au AUS,GK,West Ham,29,1994,19,19,1710,19,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,30f6344f
+10,Brooke Aspin,eng ENG,DF,Bristol City,18,2005,17,16,1368,15.2,2,0,2,2,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches,1c3dde8d
+11,Viviane Asseyi,fr FRA,FWMF,West Ham,29,1993,22,22,1902,21.1,6,1,7,3,3,3,4,0,0.28,0.05,0.33,0.14,0.19,Matches,80d991d9
+12,Izzy Atkinson,ie IRL,MF,West Ham,22,2001,7,1,172,1.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,02ebb157
+13,Rosella Ayane,ma MAR,FWMF,Tottenham,27,1996,10,0,211,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,41548209
+14,Sophie Baggaley,eng ENG,GK,Brighton,26,1996,19,19,1710,19,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,410be8c7
+15,Ava Baker,eng ENG,FW,Leicester City,17,2006,8,0,99,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,75cae050
+16,Molly Bartrip,eng ENG,DF,Tottenham,27,1996,18,16,1498,16.6,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,a6f1d507
+17,Jennifer Beattie,sct SCO,DF,Arsenal,32,1991,3,2,172,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,bd8b51ce
+18,Agnes Beever-Jones,eng ENG,FW,Chelsea,20,2003,17,6,689,7.7,11,2,13,11,0,0,0,0,1.44,0.26,1.7,1.44,1.7,Matches,58b6ad69
+19,Hanna Bennison,se SWE,MFFW,Everton,20,2002,20,16,1328,14.8,1,1,2,1,0,0,1,0,0.07,0.07,0.14,0.07,0.14,Matches,0ce72873
+20,Francesca Bentley,eng ENG,GK,Bristol City,22,2001,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,678c8d48
+21,Ann-Katrin Berger,de GER,GK,Chelsea,32,1990,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,be9f3298
+22,Marika Bergman-Lundin,se SWE,MF,West Ham,24,1999,8,0,138,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2f76fcae
+23,Guro Bergsvand,no NOR,DF,Brighton,29,1994,22,22,1980,22,1,0,1,1,0,0,2,0,0.05,0,0.05,0.05,0.05,Matches,561230d9
+24,Emma Bissell,eng ENG,MFFW,Everton,21,2001,22,9,874,9.7,1,0,1,1,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches,517b0772
+25,Nathalie Björn,se SWE,DF,Chelsea,26,1997,9,8,734,8.2,1,2,3,1,0,0,0,0,0.12,0.25,0.37,0.12,0.37,Matches,ee84c793
+26,Nathalie Björn,se SWE,DF,Everton,26,1997,8,6,559,6.2,1,0,1,0,1,1,1,0,0.16,0,0.16,0,0,Matches,ee84c793
+27,Stina Blackstenius,se SWE,FWMF,Arsenal,27,1996,19,7,672,7.5,7,0,7,7,0,0,0,0,0.94,0,0.94,0.94,0.94,Matches,c6b9e97f
+28,Julie Blakstad,no NOR,DF,Manchester City,21,2001,4,1,112,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,40e22487
+29,Laura Blindkilde,eng ENG,MF,Aston Villa,19,2003,9,8,631,7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c203fd8a
+30,Laura Blindkilde,eng ENG,MF,Manchester City,19,2003,6,0,165,1.8,1,0,1,1,0,0,0,0,0.55,0,0.55,0.55,0.55,Matches,c203fd8a
+31,Hannah Blundell,eng ENG,DF,Manchester Utd,29,1994,22,21,1872,20.8,0,2,2,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches,fe9eaddc
+32,Missy Bo Kearns,eng ENG,MFFW,Liverpool,22,2001,20,9,914,10.2,1,1,2,1,0,0,3,0,0.1,0.1,0.2,0.1,0.2,Matches,a3ee3804
+33,Gemma Bonner,eng ENG,DF,Liverpool,32,1991,20,19,1623,18,3,1,4,3,0,0,7,0,0.17,0.06,0.22,0.17,0.22,Matches,488a84df
+34,CJ Bott,nz NZL,DFMF,Leicester City,28,1995,20,14,1316,14.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,883e08a9
+35,Ellie Brazil,eng ENG,FWMF,Tottenham,24,1999,3,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,50000805
+36,Pauline Bremer,de GER,FWMF,Brighton,27,1996,16,14,1201,13.3,2,2,4,2,0,0,0,0,0.15,0.15,0.3,0.15,0.3,Matches,ef20b0e8
+37,Millie Bright,eng ENG,DF,Chelsea,29,1993,10,10,864,9.6,1,0,1,1,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches,22fccf20
+38,Courtney Brosnan,ie IRL,GK,Everton,27,1995,20,20,1800,20,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,1cd91ff2
+39,Kadeisha Buchanan,ca CAN,DFMF,Chelsea,27,1995,7,5,449,5,1,0,1,1,0,0,0,0,0.2,0,0.2,0.2,0.2,Matches,8da78a89
+40,Luana Bühler,ch SUI,DF,Tottenham,27,1996,16,16,1265,14.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c539c765
+41,Jasmine Bull,eng ENG,DF,Bristol City,20,2002,9,3,334,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,72cb3005
+42,Hannah Cain,wls WAL,FWMF,Leicester City,24,1999,8,4,452,5,0,2,2,0,0,0,2,0,0,0.4,0.4,0,0.4,Matches,73b140ea
+43,Megan Campbell,ie IRL,DF,Everton,30,1993,6,0,80,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,621f756c
+44,Jelena ?ankovi?,rs SRB,MF,Chelsea,27,1995,9,3,334,3.7,0,2,2,0,0,0,1,0,0,0.54,0.54,0,0.54,Matches,832cd881
+45,Jorelyn Carabalí,co COL,DFMF,Brighton,26,1997,13,11,973,10.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,aec544bc
+46,Jess Carter,eng ENG,DF,Chelsea,25,1997,21,19,1723,19.1,0,1,1,0,0,0,2,0,0,0.05,0.05,0,0.05,Matches,bb5e99fc
+47,Kerstin Casparij,nl NED,DF,Manchester City,22,2000,18,11,1053,11.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c53d044d
+48,Deyna Castellanos,ve VEN,MF,Manchester City,24,1999,5,1,142,1.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,1b470ecd
+49,Steph Catley,au AUS,DF,Arsenal,29,1994,22,17,1540,17.1,1,3,4,1,0,0,0,0,0.06,0.18,0.23,0.06,0.23,Matches,9ef5bf48
+50,Janice Cayman,be BEL,DFMF,Leicester City,34,1988,21,20,1729,19.2,4,0,4,4,0,0,2,0,0.21,0,0.21,0.21,0.21,Matches,1722c1c3
+51,Niamh Charles,eng ENG,DFMF,Chelsea,24,1999,22,22,1890,21,2,7,9,2,0,0,3,1,0.1,0.33,0.43,0.1,0.43,Matches,cf19f181
+52,Hawa Cissoko,fr FRA,DFMF,West Ham,26,1997,20,19,1620,18,1,0,1,1,0,0,8,1,0.06,0,0.06,0.06,0.06,Matches,41d9c706
+53,Jenna Clark,sct SCO,DF,Liverpool,21,2001,21,18,1656,18.4,1,0,1,1,0,0,2,0,0.05,0,0.05,0.05,0.05,Matches,1a993b0e
+54,Olivia Clark,wls WAL,GK,Bristol City,21,2001,7,6,584,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,eb11ddde
+55,Grace Clinton,eng ENG,MFFW,Tottenham,20,2003,20,20,1627,18.1,4,4,8,4,0,0,3,0,0.22,0.22,0.44,0.22,0.44,Matches,71657eba
+56,Laia Codina,es ESP,DF,Arsenal,23,2000,8,5,451,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,1efbd058
+57,Megan Connolly,ie IRL,DFMF,Bristol City,26,1997,22,22,1930,21.4,1,1,2,1,0,0,3,0,0.05,0.05,0.09,0.05,0.09,Matches,afed2d24
+58,Shannon Cooke,eng ENG,DFMF,West Ham,23,2000,19,8,826,9.2,1,0,1,1,0,0,2,0,0.11,0,0.11,0.11,0.11,Matches,30f46e9b
+59,Laura Coombs,eng ENG,MF,Manchester City,32,1991,17,14,1030,11.4,3,2,5,3,0,0,1,0,0.26,0.17,0.44,0.26,0.44,Matches,dfe6be0f
+60,Kyra Cooney-Cross,au AUS,MF,Arsenal,21,2002,14,5,547,6.1,0,2,2,0,0,0,1,0,0,0.33,0.33,0,0.33,Matches,37b0f944
+61,Rachel Corsie,sct SCO,MFDF,Aston Villa,33,1989,21,16,1489,16.5,0,2,2,0,0,0,5,0,0,0.12,0.12,0,0.12,Matches,49fd636f
+62,Erin Cuthbert,sct SCO,MF,Chelsea,25,1998,20,17,1477,16.4,4,2,6,4,0,0,1,0,0.24,0.12,0.37,0.24,0.37,Matches,76a887a9
+63,Sabrina D'Angelo,ca CAN,GK,Arsenal,30,1993,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b14d2016
+64,Eleanor Dale,eng ENG,FW,Everton,21,2002,6,0,74,0.8,0,1,1,0,0,0,0,0,0,1.22,1.22,0,1.22,Matches,b6e3dd95
+65,Kenza Dali,fr FRA,MFFW,Aston Villa,32,1991,17,16,1423,15.8,1,2,3,1,0,0,1,0,0.06,0.13,0.19,0.06,0.19,Matches,1cb43c5f
+66,Rachel Daly,eng ENG,FWMF,Aston Villa,31,1991,20,20,1798,20,8,0,8,6,2,2,3,0,0.4,0,0.4,0.3,0.3,Matches,7fa35ec9
+67,Yana Daniels,be BEL,FW,Liverpool,31,1992,12,2,312,3.5,0,1,1,0,0,0,3,0,0,0.29,0.29,0,0.29,Matches,b33b4a16
+68,Lily Dent,eng ENG,FW,Brighton,16,2006,3,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b7dca3d4
+69,Anouk Denton,eng ENG,MFDF,West Ham,20,2003,15,12,1042,11.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2.74E+76
+70,Daphne van Domselaar,nl NED,GK,Aston Villa,23,2000,14,14,1260,14,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,20dcbb3f
+71,Denny Draper,eng ENG,FW,Leicester City,16,2007,4,0,21,0.2,1,0,1,1,0,0,0,0,4.29,0,4.29,4.29,4.29,Matches,805bb0b6
+72,Toni Duggan,eng ENG,MF,Everton,32,1991,10,1,209,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,51aefd7f
+73,Mary Earps,eng ENG,GK,Manchester Utd,30,1993,22,22,1980,22,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,ca2eabf4
+74,Mia Enderby,eng ENG,FW,Liverpool,18,2005,14,6,557,6.2,0,1,1,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches,29ef9b4c
+75,Bethany England,eng ENG,FW,Tottenham,29,1994,14,12,1010,11.2,5,0,5,5,0,0,0,0,0.45,0,0.45,0.45,0.45,Matches,ccb1bd8b
+76,Gemma Evans,wls WAL,DF,Manchester Utd,26,1996,12,4,438,4.9,0,1,1,0,0,0,1,0,0,0.21,0.21,0,0.21,Matches,58e461be
+77,Lisa Evans,sct SCO,MFDF,Bristol City,31,1992,9,3,344,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,755ef87c
+78,Lisa Evans,sct SCO,MFDF,West Ham,31,1992,9,8,718,8,1,1,2,1,0,0,1,0,0.13,0.13,0.25,0.13,0.25,Matches,755ef87c
+79,Nicky Evrard,be BEL,GK,Brighton,28,1995,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b609ead2
+80,Niamh Fahey,ie IRL,DF,Liverpool,35,1987,8,6,524,5.8,0,1,1,0,0,0,1,0,0,0.17,0.17,0,0.17,Matches,cb226c03
+81,Melisa Filis,eng ENG,MFDF,West Ham,21,2002,9,2,345,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,a07a7a88
+82,Megan Finnigan,eng ENG,DF,Everton,25,1998,21,21,1890,21,3,0,3,3,0,0,3,0,0.14,0,0.14,0.14,0.14,Matches,7de2938e
+83,Mia Fishel,us USA,FWDF,Chelsea,22,2001,10,4,341,3.8,1,1,2,1,0,0,0,0,0.26,0.26,0.53,0.26,0.53,Matches,c4ebeea2
+84,Grace Fisk,eng ENG,DF,Liverpool,25,1998,22,22,1935,21.5,1,1,2,1,0,0,3,0,0.05,0.05,0.09,0.05,0.09,Matches,3978f8a9
+85,Keira Flannery,eng ENG,MF,West Ham,17,2005,2,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,96f6dfcf
+86,Jessie Fleming,ca CAN,MFFW,Chelsea,25,1998,10,4,402,4.5,1,3,4,1,0,0,1,0,0.22,0.67,0.9,0.22,0.9,Matches,e47d2297
+87,Natasha Flint,eng ENG,MFFW,Liverpool,26,1996,6,2,223,2.5,1,0,1,1,0,0,0,0,0.4,0,0.4,0.4,0.4,Matches,02fd09ad
+88,Caitlin Foord,au AUS,MFFW,Arsenal,28,1994,22,18,1564,17.4,4,4,8,4,0,0,4,0,0.23,0.23,0.46,0.23,0.46,Matches,019544ff
+89,Mary Fowler,au AUS,FW,Manchester City,20,2003,21,13,1174,13,4,6,10,4,0,0,0,0,0.31,0.46,0.77,0.31,0.77,Matches,ecd93ef2
+90,Emily Fox,us USA,DF,Arsenal,25,1998,10,9,793,8.8,0,2,2,0,0,0,0,0,0,0.23,0.23,0,0.23,Matches,2eb9f54a
+91,Rachel Furness,nir NIR,MF,Bristol City,35,1988,10,7,565,6.3,1,1,2,1,0,0,2,0,0.16,0.16,0.32,0.16,0.32,Matches,30260df0
+92,Aurora Galli,it ITA,MFDF,Everton,26,1996,19,19,1554,17.3,3,2,5,2,1,1,2,0,0.17,0.12,0.29,0.12,0.23,Matches,cc516d17
+93,Leah Galton,eng ENG,MFDF,Manchester Utd,29,1994,18,13,1253,13.9,2,2,4,2,0,0,0,0,0.14,0.14,0.29,0.14,0.29,Matches,c3d37cec
+94,Lucía García,es ESP,MF,Manchester Utd,25,1998,22,13,1237,13.7,3,2,5,3,0,0,3,0,0.22,0.15,0.36,0.22,0.36,Matches,50e52d91
+95,Gabrielle George,eng ENG,DF,Manchester Utd,26,1997,3,3,188,2.1,0,1,1,0,0,0,0,0,0,0.48,0.48,0,0.48,Matches,a706e82f
+96,Lee Geum-min,kr KOR,FW,Brighton,29,1994,20,7,837,9.3,2,1,3,2,0,0,3,0,0.22,0.11,0.32,0.22,0.32,Matches,3137ff06
+97,Geyse,br BRA,FWMF,Manchester Utd,25,1998,19,13,1114,12.4,1,2,3,1,0,0,2,0,0.08,0.16,0.24,0.08,0.24,Matches,5b5de127
+98,Missy Goodwin,eng ENG,MFFW,Leicester City,20,2003,17,8,701,7.8,1,0,1,1,0,0,0,0,0.13,0,0.13,0.13,0.13,Matches,7f563c66
+99,Katrina Gorry,au AUS,MF,West Ham,30,1992,7,7,542,6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,9290a41c
+100,Kit Graham,eng ENG,MF,Tottenham,27,1995,18,4,620,6.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,7cdb3c2e
+101,Lucy Graham,sct SCO,DFMF,Everton,26,1996,14,11,890,9.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,1691b0ef
+102,Charlotte Grant,au AUS,DF,Tottenham,21,2001,8,5,477,5.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,bb9ba109
+103,Josephine Green,wls WAL,DF,Leicester City,30,1993,16,11,962,10.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,90ca21de
+104,Alex Greenwood,eng ENG,DF,Manchester City,29,1993,20,20,1747,19.4,1,3,4,1,0,0,4,1,0.05,0.15,0.21,0.05,0.21,Matches,d935ee5a
+105,Freya Gregory,sct SCO,MF,Aston Villa,20,2003,3,0,41,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,08ebd353
+106,Irene Guerrero,es ESP,MF,Manchester Utd,26,1996,3,0,29,0.3,0,1,1,0,0,0,0,0,0,3.1,3.1,0,3.1,Matches,b9002fb4
+107,Benedicte Håland,no NOR,GK,Bristol City,25,1998,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7a6a40ee
+108,Madison Haley,us USA,FWMF,Brighton,24,1998,13,6,602,6.7,2,1,3,2,0,0,2,0,0.3,0.15,0.45,0.3,0.45,Matches,5e8dd2d2
+109,Maika Hamano,jp JPN,FWMF,Chelsea,19,2004,6,3,314,3.5,2,0,2,2,0,0,0,0,0.57,0,0.57,0.57,0.57,Matches,ecbfbc1a
+110,Hannah Hampton,eng ENG,GK,Chelsea,22,2000,10,10,900,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,87f3ffa4
+111,Kirsty Hanson,sct SCO,FWMF,Aston Villa,25,1998,16,12,1148,12.8,0,1,1,0,0,0,2,1,0,0.08,0.08,0,0.08,Matches,2457a6c7
+112,Emma Harries,eng ENG,MFFW,West Ham,21,2002,17,7,662,7.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,c17af8e0
+113,Abigail Harrison,sct SCO,MFFW,Bristol City,25,1997,15,8,705,7.8,1,2,3,1,0,0,3,0,0.13,0.26,0.38,0.13,0.38,Matches,f39ee5a1
+114,Yui Hasegawa,jp JPN,MF,Manchester City,26,1997,22,22,1943,21.6,0,3,3,0,0,0,0,0,0,0.14,0.14,0,0.14,Matches,13633403
+115,Honoka Hayashi,jp JPN,MF,West Ham,25,1998,21,21,1670,18.6,2,3,5,2,0,0,0,0,0.11,0.16,0.27,0.11,0.27,Matches,eb7fd1c4
+116,Shania Hayles,jm JAM,MFFW,Bristol City,23,1999,15,3,292,3.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,6ad4cec9
+117,Lauren Hemp,eng ENG,FWMF,Manchester City,22,2000,21,19,1746,19.4,11,8,19,11,0,0,4,1,0.57,0.41,0.98,0.57,0.98,Matches,d979e267
+118,Taylor Hinds,eng ENG,MFDF,Liverpool,23,1999,16,15,1269,14.1,2,2,4,2,0,0,4,0,0.14,0.14,0.28,0.14,0.28,Matches,a760a666
+119,Marie Höbinger,at AUT,MF,Liverpool,22,2001,22,18,1411,15.7,5,6,11,5,0,0,0,0,0.32,0.38,0.7,0.32,0.7,Matches,153d4f38
+120,Isabella Hobson,eng ENG,MF,Everton,15,2007,4,0,14,0.2,1,0,1,1,0,0,0,0,6.43,0,6.43,6.43,6.43,Matches,a596588e
+121,Ceri Holland,wls WAL,MFFW,Liverpool,25,1997,19,18,1630,18.1,2,4,6,2,0,0,6,1,0.11,0.22,0.33,0.11,0.33,Matches,7a9c5b5c
+122,Karen Holmgaard,dk DEN,MFDF,Everton,24,1999,13,5,479,5.3,2,0,2,2,0,0,1,0,0.38,0,0.38,0.38,0.38,Matches,c75c305a
+123,Sara Holmgaard,dk DEN,DFMF,Everton,24,1999,12,11,882,9.8,2,3,5,2,0,0,2,0,0.2,0.31,0.51,0.2,0.51,Matches,ad0ed89a
+124,Steph Houghton,eng ENG,DFFW,Manchester City,35,1988,4,0,58,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,378ce9a0
+125,Sophie Howard,sct SCO,DF,Leicester City,29,1993,22,19,1719,19.1,1,0,1,1,0,0,2,0,0.05,0,0.05,0.05,0.05,Matches,4b98901d
+126,Lina Hurtig,se SWE,FWMF,Arsenal,27,1995,2,0,52,0.6,1,0,1,1,0,0,0,0,1.73,0,1.73,1.73,1.73,Matches,2d28fd4d
+127,Celin Ildhusøy,no NOR,FWMF,Tottenham,21,2001,20,19,1449,16.1,4,1,5,4,0,0,1,0,0.25,0.06,0.31,0.25,0.31,Matches,827f4be5
+128,Amanda Ilestedt,se SWE,DF,Arsenal,30,1993,12,10,945,10.5,1,0,1,1,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches,93514385
+129,Sophie Ingle,wls WAL,MFDF,Chelsea,31,1991,14,9,843,9.4,0,3,3,0,0,0,1,0,0,0.32,0.32,0,0.32,Matches,64623394
+130,Angharad James,wls WAL,DFMF,Tottenham,29,1994,11,11,984,10.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,6444e5a0
+131,Lauren James,eng ENG,MFFW,Chelsea,21,2001,16,14,1112,12.4,13,2,15,13,0,0,5,0,1.05,0.16,1.21,1.05,1.21,Matches,d6c2ee71
+132,Olivia Johnson,eng ENG,FW,Brighton,16,2007,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,692b11f5
+133,Carrie Jones,wls WAL,MFFW,Bristol City,19,2003,18,16,1457,16.2,3,0,3,3,0,0,1,0,0.19,0,0.19,0.19,0.19,Matches,d3032ee0
+134,Khiara Keating,eng ENG,GK,Manchester City,19,2004,22,22,1980,22,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,20b9158f
+135,Chloe Kelly,eng ENG,FWMF,Manchester City,25,1998,21,18,1594,17.7,5,5,10,4,1,2,3,0,0.28,0.28,0.56,0.23,0.51,Matches,9ff67bf9
+136,Maya Kendall,,,Bristol City,,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8d40fec6
+137,Alanna Kennedy,au AUS,DF,Manchester City,28,1995,17,14,1158,12.9,0,1,1,0,0,0,0,0,0,0.08,0.08,0,0.08,Matches,8252bc62
+138,Sam Kerr,au AUS,FW,Chelsea,29,1993,8,7,584,6.5,4,2,6,4,0,0,0,0,0.62,0.31,0.92,0.62,0.92,Matches,6a435e8d
+139,Leanne Kiernan,ie IRL,FW,Liverpool,24,1999,14,4,420,4.7,5,2,7,5,0,0,0,0,1.07,0.43,1.5,1.07,1.5,Matches,be519a1d
+140,Fran Kirby,eng ENG,MFFW,Chelsea,30,1993,21,9,900,10,3,2,5,3,0,0,0,0,0.3,0.2,0.5,0.3,0.5,Matches,bd91e11f
+141,Emma Koivisto,fi FIN,MFDF,Liverpool,28,1994,19,17,1401,15.6,2,0,2,2,0,0,2,0,0.13,0,0.13,0.13,0.13,Matches,4658c710
+142,Lize Kop,nl NED,GK,Leicester City,25,1998,8,8,720,8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4b78a53c
+143,Kathrine Kühl,dk DEN,MF,Arsenal,20,2003,2,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,5b5cd763
+144,Kathrine Kühl,dk DEN,MFFW,Everton,20,2003,10,10,817,9.1,0,1,1,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches,5b5cd763
+145,Emma Kullberg,se SWE,DFMF,Brighton,31,1991,21,14,1321,14.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2bed1c6e
+146,Cloé Lacasse,ca CAN,MFFW,Arsenal,30,1993,19,6,641,7.1,3,2,5,3,0,0,5,0,0.42,0.28,0.7,0.42,0.7,Matches,2af1a4e8
+147,Hayley Ladd,wls WAL,MF,Manchester Utd,29,1993,11,7,607,6.7,2,0,2,2,0,0,2,0,0.3,0,0.3,0.3,0.3,Matches,1e4d1c4c
+148,Melissa Lawley,eng ENG,FW,Liverpool,29,1994,17,5,585,6.5,1,2,3,1,0,0,2,0,0.15,0.31,0.46,0.15,0.46,Matches,6ca0cbee
+149,Ashley Lawrence,ca CAN,DF,Chelsea,28,1995,18,10,968,10.8,1,0,1,1,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches,c219a715
+150,Rachael Laws,eng ENG,GK,Liverpool,32,1990,15,15,1350,15,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7b45e2ca
+151,Naomi Layzell,eng ENG,DF,Bristol City,19,2004,16,15,1303,14.5,0,1,1,0,0,0,0,0,0,0.07,0.07,0,0.07,Matches,2434d456
+152,Maya Le Tissier,eng ENG,DF,Manchester Utd,21,2002,22,22,1980,22,2,1,3,2,0,0,1,0,0.09,0.05,0.14,0.09,0.14,Matches,8.73E+10
+153,Anna Leat,nz NZL,GK,Aston Villa,22,2001,7,7,543,6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,966527eb
+154,Mia Leath,,MF,Liverpool,,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7f03ca07
+155,Alisha Lehmann,ch SUI,FWMF,Aston Villa,24,1999,15,10,661,7.3,2,0,2,2,0,0,2,0,0.27,0,0.27,0.27,0.27,Matches,f32bb122
+156,Janina Leitzig,de GER,GK,Leicester City,24,1999,14,14,1260,14,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,f2b936c8
+157,Adriana Leon,ca CAN,FWMF,Aston Villa,30,1992,18,14,1173,13,5,3,8,5,0,0,5,0,0.38,0.23,0.61,0.38,0.61,Matches,15c7bfb7
+158,Melanie Leupolz,de GER,MF,Chelsea,29,1994,11,9,816,9.1,1,2,3,1,0,0,2,0,0.11,0.22,0.33,0.11,0.33,Matches,4fc6f0fa
+159,Zhang Linyan,cn CHN,MF,Tottenham,22,2001,3,1,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4af4f070
+160,Kim Little,sct SCO,MF,Arsenal,33,1990,17,14,1287,14.3,1,2,3,0,1,3,1,0,0.07,0.14,0.21,0,0.14,Matches,bef86627
+161,Melina Loeck,de GER,GK,Brighton,23,2000,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,82077469
+162,Vicky Losada,es ESP,MF,Brighton,32,1991,21,20,1575,17.5,1,1,2,0,1,1,6,0,0.06,0.06,0.11,0,0.06,Matches,8b27176a
+163,Sofie Lundgaard,dk DEN,MF,Liverpool,21,2002,11,3,262,2.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,c6bb8a64
+164,Frida Maanum,no NOR,MFFW,Arsenal,24,1999,21,7,783,8.7,3,0,3,3,0,0,1,0,0.34,0,0.34,0.34,0.34,Matches,fb583d6d
+165,Catarina Macario,us USA,FW,Chelsea,23,1999,8,4,359,4,1,5,6,1,0,0,0,0,0.25,1.25,1.5,0.25,1.5,Matches,22c5e558
+166,Ruby Mace,eng ENG,DFMF,Manchester City,19,2003,5,0,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,e5a62c31
+167,Rikke Madsen,dk DEN,FWMF,Everton,25,1997,5,4,267,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,adc2166f
+168,Simone Magill,nir NIR,FWMF,Aston Villa,28,1994,14,5,483,5.4,0,1,1,0,0,0,0,0,0,0.19,0.19,0,0.19,Matches,34691e2f
+169,Melvine Malard,fr FRA,MFFW,Manchester Utd,23,2000,19,11,820,9.1,6,1,7,6,0,0,1,0,0.66,0.11,0.77,0.66,0.77,Matches,e99919aa
+170,Aoife Mannion,ie IRL,DF,Manchester Utd,27,1995,4,2,214,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,65be012f
+171,Kaylan Marckese,us USA,GK,Bristol City,25,1998,4,4,314,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c55b0b2e
+172,Noelle Maritz,ch SUI,MFDF,Arsenal,27,1995,8,4,396,4.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,41d5abd2
+173,Noelle Maritz,ch SUI,DF,Aston Villa,27,1995,12,12,1053,11.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,41d5abd2
+174,Jasmine Matthews,eng ENG,MFDF,Liverpool,30,1993,12,7,718,8,0,1,1,0,0,0,1,0,0,0.13,0.13,0,0.13,Matches,208e9d61
+175,Sarah Mayling,eng ENG,DFMF,Aston Villa,26,1997,21,20,1741,19.3,1,0,1,0,1,1,3,0,0.05,0,0.05,0,0,Matches,5aad26a6
+176,Katie McCabe,ie IRL,DFMF,Arsenal,27,1995,21,19,1652,18.4,3,2,5,3,0,0,8,0,0.16,0.11,0.27,0.16,0.27,Matches,cb3a3ff4
+177,Grace McEwan,eng ENG,DF,Brighton,15,2007,1,0,9,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,84c5af0f
+178,Olivia McLoughlin,eng ENG,MF,Aston Villa,18,2004,3,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9a67772c
+179,Beth Mead,eng ENG,MFFW,Arsenal,28,1995,20,16,1374,15.3,8,4,12,8,0,0,0,0,0.52,0.26,0.79,0.52,0.79,Matches,921c8f1d
+180,Li Mengwen,cn CHN,DFFW,Brighton,28,1995,11,6,543,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6c8f2306
+181,Kristie Mewis,us USA,DFMF,West Ham,32,1991,3,0,95,1.1,0,1,1,0,0,0,0,0,0,0.95,0.95,0,0.95,Matches,cd5e683b
+182,Teagan Micah,au AUS,GK,Liverpool,25,1997,7,7,630,7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,37b074b8
+183,Vivianne Miedema,nl NED,MF,Arsenal,27,1996,9,3,290,3.2,2,1,3,2,0,0,0,0,0.62,0.31,0.93,0.62,0.93,Matches,fa4e4c0a
+184,Hinata Miyazawa,jp JPN,MF,Manchester Utd,23,1999,12,6,532,5.9,1,1,2,1,0,0,0,0,0.17,0.17,0.34,0.17,0.34,Matches,7aeade6f
+185,Maren Mjelde,no NOR,DFMF,Chelsea,33,1989,7,5,415,4.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,3bf287fc
+186,Yuka Momiki,jp JPN,MFFW,Leicester City,27,1996,12,11,955,10.6,2,3,5,2,0,0,1,0,0.19,0.28,0.47,0.19,0.47,Matches,32e6e010
+187,Esme Morgan,eng ENG,DF,Manchester City,22,2000,9,5,537,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,ecacba26
+188,Ffion Morgan,wls WAL,MFFW,Bristol City,23,2000,22,19,1643,18.3,1,2,3,1,0,0,0,0,0.05,0.11,0.16,0.05,0.16,Matches,9650fecc
+189,Georgia Mullett,eng ENG,FW,Aston Villa,17,2005,6,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b1efbb09
+190,Satara Murray,jm JAM,DF,Bristol City,30,1993,4,2,167,1.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,c519dc3a
+191,Ze?ira Mušovi?,se SWE,GK,Chelsea,27,1996,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4c48a42a
+192,Chloe Mustaki,ie IRL,DFMF,Bristol City,28,1995,6,5,451,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8ec787b1
+193,Lisa Naalsund,no NOR,MF,Manchester Utd,28,1995,17,11,989,11,2,2,4,2,0,0,0,0,0.18,0.18,0.36,0.18,0.36,Matches,78468aa6
+194,F?ka Nagano,jp JPN,MF,Liverpool,24,1999,21,21,1841,20.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,8c7bc9dc
+195,Jamie-Lee Napier,sct SCO,DFMF,Bristol City,23,2000,19,18,1642,18.2,0,1,1,0,0,0,6,1,0,0.05,0.05,0,0.05,Matches,18f952e0
+196,Jessica Naz,eng ENG,FWMF,Tottenham,22,2000,22,10,1053,11.7,3,4,7,3,0,0,2,0,0.26,0.34,0.6,0.26,0.6,Matches,a6cc3fcc
+197,Ashleigh Neville,eng ENG,DF,Tottenham,30,1993,19,18,1605,17.8,1,0,1,1,0,0,2,0,0.06,0,0.06,0.06,0.06,Matches,047b0b71
+198,Courtney Nevin,au AUS,DFMF,Leicester City,21,2002,16,13,1154,12.8,0,1,1,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches,0fbbe2fe
+199,Amanda Nildén,se SWE,DF,Tottenham,24,1998,10,10,828,9.2,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches,ede1eaea
+200,Jordan Nobbs,eng ENG,MF,Aston Villa,30,1992,22,17,1459,16.2,2,2,4,2,0,0,3,0,0.12,0.12,0.25,0.12,0.25,Matches,2225335c
+201,Aniek Nouwen,nl NED,DF,Chelsea,24,1999,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,5202e464
+202,Sjoeke Nüsken,de GER,MF,Chelsea,22,2001,21,13,1124,12.5,7,3,10,7,0,0,1,0,0.56,0.24,0.8,0.56,0.8,Matches,0050cd30
+203,Shannon O'Brien,eng ENG,MFFW,Leicester City,21,2001,9,8,519,5.8,1,0,1,1,0,0,3,0,0.17,0,0.17,0.17,0.17,Matches,c3b6d1b2
+204,Karoline Olesen,dk DEN,MFFW,Everton,18,2005,13,3,383,4.3,0,1,1,0,0,0,1,0,0,0.23,0.23,0,0.23,Matches,c4c8c358
+205,Leila Ouahabi,es ESP,DF,Manchester City,30,1993,17,16,1402,15.6,1,4,5,1,0,0,2,1,0.06,0.26,0.32,0.06,0.32,Matches,9663804e
+206,Mayumi Pacheco,eng ENG,DFMF,Aston Villa,24,1998,18,12,1132,12.6,1,2,3,1,0,0,4,1,0.08,0.16,0.24,0.08,0.24,Matches,3dec204f
+207,Aimee Palmer,eng ENG,MF,Leicester City,23,2000,7,4,308,3.4,1,0,1,1,0,0,1,0,0.29,0,0.29,0.29,0.29,Matches,37d866d9
+208,Jessica Park,eng ENG,MF,Manchester City,21,2001,18,9,969,10.8,4,5,9,4,0,0,0,0,0.37,0.46,0.84,0.37,0.84,Matches,4a27340c
+209,Lucy Parker,eng ENG,MFDF,Aston Villa,24,1998,8,4,465,5.2,1,0,1,1,0,0,3,0,0.19,0,0.19,0.19,0.19,Matches,3cbda998
+210,Nikita Parris,eng ENG,FWMF,Manchester Utd,29,1994,21,16,1195,13.3,8,1,9,8,0,0,1,0,0.6,0.08,0.68,0.6,0.68,Matches,fa5faf19
+211,Lucy Parry,eng ENG,DFMF,Liverpool,19,2004,10,3,294,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,1778215c
+212,Anna Patten,ie IRL,DF,Aston Villa,24,1999,22,22,1954,21.7,1,1,2,1,0,0,3,0,0.05,0.05,0.09,0.05,0.09,Matches,5d6376ee
+213,Poppy Pattinson,eng ENG,DFMF,Brighton,23,2000,16,15,1248,13.9,0,1,1,0,0,0,0,0,0,0.07,0.07,0,0.07,Matches,eced0e75
+214,Heather Payne,ie IRL,MFFW,Everton,23,2000,17,15,1337,14.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,86f7f003
+215,Emilia Pelgander,se SWE,MF,Leicester City,19,2004,8,1,121,1.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,7046a1fb
+216,Victoria Pelova,nl NED,MF,Arsenal,24,1999,22,20,1551,17.2,2,5,7,2,0,0,3,0,0.12,0.29,0.41,0.12,0.41,Matches,dd37aa7f
+217,Ria Percival,nz NZL,MF,Tottenham,33,1989,6,2,174,1.9,1,0,1,1,0,0,0,0,0.52,0,0.52,0.52,0.52,Matches,f3746547
+218,Ève Périsset,fr FRA,DF,Chelsea,28,1994,13,10,872,9.7,0,1,1,0,0,0,0,0,0,0.1,0.1,0,0.1,Matches,70bcb789
+219,Lena Petermann,de GER,FW,Leicester City,29,1994,20,18,1524,16.9,5,4,9,5,0,0,2,0,0.3,0.24,0.53,0.3,0.53,Matches,9309709b
+220,Ramona Petzelberger,de GER,MF,Tottenham,30,1992,10,2,309,3.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,27ad6364
+221,Martina Piemonte,it ITA,FWMF,Everton,25,1997,19,8,848,9.4,3,1,4,3,0,0,1,0,0.32,0.11,0.42,0.32,0.42,Matches,424d17b8
+222,Tatiana Pinto,pt POR,MFFW,Brighton,29,1994,20,8,823,9.1,2,0,2,2,0,0,4,0,0.22,0,0.22,0.22,0.22,Matches,d55abfda
+223,Sophia Poor,eng ENG,GK,Aston Villa,17,2006,2,1,176,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8243958a
+224,Ella Powell,wls WAL,DFMF,Bristol City,23,2000,20,18,1478,16.4,1,0,1,1,0,0,3,0,0.06,0,0.06,0.06,0.06,Matches,20f303bc
+225,Mayra Ramírez,co COL,FW,Chelsea,24,1999,7,4,369,4.1,3,2,5,3,0,0,0,0,0.73,0.49,1.22,0.73,1.22,Matches,61478cfd
+226,Emily Ramsey,eng ENG,GK,Everton,22,2000,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,41f1df2f
+227,Jutta Rantala,fi FIN,MFFW,Leicester City,23,1999,22,20,1761,19.6,5,5,10,5,0,0,1,0,0.26,0.26,0.51,0.26,0.51,Matches,cfea3233
+228,Katie Reid,eng ENG,DF,Arsenal,16,2006,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4286881d
+229,Guro Reiten,no NOR,MFFW,Chelsea,29,1994,16,12,1048,11.6,7,5,12,4,3,3,0,0,0.6,0.43,1.03,0.34,0.77,Matches,3d728957
+230,Jayde Riviere,ca CAN,DF,Manchester Utd,22,2001,15,12,1117,12.4,0,1,1,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches,0a67bf24
+231,Katie Robinson,eng ENG,MFFW,Brighton,20,2002,22,18,1576,17.5,3,2,5,3,0,0,0,0,0.17,0.11,0.29,0.17,0.29,Matches,9809a8d0
+232,Amy Rodgers,sct SCO,MF,Bristol City,23,2000,22,22,1932,21.5,1,0,1,1,0,0,3,0,0.05,0,0.05,0.05,0.05,Matches,4f15e6a9
+233,Sophie Román Haug,no NOR,FWMF,Liverpool,24,1999,20,19,1618,18,7,2,9,7,0,0,1,0,0.39,0.11,0.5,0.39,0.5,Matches,b8ba46ef
+234,Jill Roord,nl NED,MF,Manchester City,26,1997,11,11,912,10.1,6,2,8,6,0,0,2,0,0.59,0.2,0.79,0.59,0.79,Matches,443146ab
+235,Deanne Rose,ca CAN,MFFW,Leicester City,24,1999,15,4,576,6.4,0,1,1,0,0,0,0,0,0,0.16,0.16,0,0.16,Matches,76bd72f1
+236,Charlize Rule,au AUS,MF,Brighton,20,2003,9,3,403,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,5d8ff953
+237,Alessia Russo,eng ENG,FWMF,Arsenal,24,1999,22,20,1727,19.2,12,4,16,11,1,1,2,0,0.63,0.21,0.83,0.57,0.78,Matches,043d38be
+238,Johanna Rytting Kaneryd,se SWE,MFFW,Chelsea,26,1997,19,13,1167,13,4,6,10,4,0,0,0,0,0.31,0.46,0.77,0.31,0.77,Matches,a9d473d9
+239,Ebony Salmon,eng ENG,FWMF,Aston Villa,22,2001,18,5,568,6.3,3,1,4,3,0,0,0,0,0.48,0.16,0.63,0.48,0.63,Matches,63667d66
+240,Shanice van de Sanden,nl NED,FWMF,Liverpool,30,1992,10,5,508,5.6,1,0,1,1,0,0,1,0,0.18,0,0.18,0.18,0.18,Matches,43dfb0fd
+241,Veatriki Sarri,gr GRE,MFFW,Brighton,25,1998,19,9,768,8.5,0,2,2,0,0,0,1,0,0,0.23,0.23,0,0.23,Matches,8da281d5
+242,Macy Settle,,MF,Everton,,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4cde371a
+243,Khadija Shaw,jm JAM,FW,Manchester City,26,1997,18,17,1383,15.4,21,3,24,21,0,1,0,0,1.37,0.2,1.56,1.37,1.56,Matches,915083f0
+244,Zara Shaw,eng ENG,DF,Liverpool,16,2007,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a171f1ce
+245,Risa Shimizu,jp JPN,DFMF,West Ham,27,1996,22,22,1980,22,1,0,1,1,0,0,3,0,0.05,0,0.05,0.05,0.05,Matches,7784f7e2
+246,Wang Shuang,cn CHN,FWMF,Tottenham,28,1995,6,0,144,1.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,bf959e17
+247,Remy Siemsen,au AUS,FW,Leicester City,23,1999,6,0,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,affbb387
+248,Jessica Simpson,eng ENG,DF,Bristol City,18,2005,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2d10dbfa
+249,Fearne Slocombe,eng ENG,MF,Bristol City,16,2006,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,379da8da
+250,Kirsty Smith,sct SCO,MFDF,West Ham,29,1994,22,22,1957,21.7,1,0,1,1,0,0,4,0,0.05,0,0.05,0.05,0.05,Matches,74734dd2
+251,Emma Snerle,dk DEN,MFFW,West Ham,22,2001,11,5,513,5.7,0,1,1,0,0,0,1,0,0,0.18,0.18,0,0.18,Matches,c7ee3275
+252,Katja Snoeijs,nl NED,FWMF,Everton,26,1996,19,17,1519,16.9,3,1,4,3,0,0,3,0,0.18,0.06,0.24,0.18,0.24,Matches,0338228e
+253,Drew Spence,jm JAM,MF,Tottenham,30,1992,12,9,687,7.6,2,3,5,2,0,0,3,0,0.26,0.39,0.66,0.26,0.66,Matches,8983fe4a
+254,Rebecca Spencer,jm JAM,GK,Tottenham,32,1991,16,16,1440,16,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c207731f
+255,Lucy Staniforth,eng ENG,MFDF,Aston Villa,30,1992,11,8,738,8.2,0,1,1,0,0,0,0,0,0,0.12,0.12,0,0.12,Matches,2ee41ad7
+256,Jessie Stapleton,ie IRL,DF,West Ham,18,2005,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,5f20bbd3
+257,Dejana Stefanovi?,rs SRB,MF,Brighton,26,1997,2,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,ccfdf3bf
+258,Elise Stenevik,no NOR,DF,Everton,23,1999,11,11,972,10.8,1,0,1,1,0,0,5,1,0.09,0,0.09,0.09,0.09,Matches,90e69d93
+259,Demi Stokes,eng ENG,DFFW,Manchester City,31,1991,4,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a49a1c85
+260,Sarah Stratigakis,ca CAN,MF,Bristol City,24,1999,6,1,193,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,60428a32
+261,Abbey-Leigh Stringer,eng ENG,MF,West Ham,28,1995,8,7,625,6.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,d2fb8712
+262,Sille Struck,eng ENG,DF,Bristol City,,,9,8,603,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,360a8119
+263,Eveliina Summanen,fi FIN,MF,Tottenham,25,1998,20,20,1705,18.9,1,4,5,1,0,0,2,0,0.05,0.21,0.26,0.05,0.26,Matches,562e21cc
+264,Emily Syme,eng ENG,MF,Bristol City,23,2000,22,11,1027,11.4,0,1,1,0,0,0,0,0,0,0.09,0.09,0,0.09,Matches,abf0120b
+265,Maisie Symonds,eng ENG,MF,Brighton,20,2003,20,9,888,9.9,0,3,3,0,0,0,3,0,0,0.3,0.3,0,0.3,Matches,118413ec
+266,Nicoline Sørensen,dk DEN,FWMF,Everton,25,1997,9,8,646,7.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a027d0c8
+267,Saori Takarada,jp JPN,MF,Leicester City,23,1999,12,11,964,10.7,1,1,2,1,0,0,1,0,0.09,0.09,0.19,0.09,0.19,Matches,602ba0c3
+268,Miri Taylor,sct SCO,FW,Liverpool,23,2000,3,1,82,0.9,1,0,1,1,0,0,0,0,1.1,0,1.1,1.1,1.1,Matches,2ceac0c2
+269,Miri Taylor,sct SCO,MF,Aston Villa,23,2000,8,4,281,3.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2ceac0c2
+270,Tianna Teisar,wls WAL,FW,Bristol City,17,2005,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,0ef06e7b
+271,Elisabeth Terland,no NOR,FW,Brighton,22,2001,22,21,1782,19.8,13,1,14,13,0,0,3,0,0.66,0.05,0.71,0.66,0.71,Matches,77f78f83
+272,Amalie Thestrup,dk DEN,FWMF,Bristol City,28,1995,22,22,1866,20.7,9,0,9,7,2,2,1,0,0.43,0,0.43,0.34,0.34,Matches,5b68bc99
+273,Julie Thibaud,fr FRA,DF,Leicester City,25,1998,20,17,1494,16.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,d5fdf445
+274,Martha Thomas,sct SCO,FW,Tottenham,27,1996,19,17,1371,15.2,7,3,10,7,0,0,3,0,0.46,0.2,0.66,0.46,0.66,Matches,39e9f635
+275,Maria Thorisdottir,no NOR,DF,Brighton,30,1993,20,19,1661,18.5,0,2,2,0,0,0,3,0,0,0.11,0.11,0,0.11,Matches,8ee86892
+276,Samantha Tierney,eng ENG,MF,Leicester City,24,1998,22,22,1980,22,3,3,6,3,0,0,2,0,0.14,0.14,0.27,0.14,0.27,Matches,92dc4a94
+277,Ella Toone,eng ENG,MF,Manchester Utd,23,1999,22,20,1726,19.2,6,4,10,6,0,0,1,0,0.31,0.21,0.52,0.31,0.52,Matches,ea1a4530
+278,Amy Turner,eng ENG,DF,Tottenham,32,1991,14,12,1162,12.9,1,0,1,1,0,0,0,0,0.08,0,0.08,0.08,0.08,Matches,a21edf38
+279,Danielle Turner,eng ENG,DF,Aston Villa,31,1991,18,15,1343,14.9,1,0,1,1,0,0,1,0,0.07,0,0.07,0.07,0.07,Matches,cdcfea31
+280,Millie Turner,eng ENG,DF,Manchester Utd,27,1996,22,22,1931,21.5,2,1,3,2,0,0,2,0,0.09,0.05,0.14,0.09,0.14,Matches,53926a7a
+281,Amber Tysiak,be BEL,DF,West Ham,23,2000,17,16,1421,15.8,1,0,1,1,0,0,2,0,0.06,0,0.06,0.06,0.06,Matches,f45631e7
+282,Riko Ueki,jp JPN,FW,West Ham,24,1999,22,22,1868,20.8,6,1,7,6,0,0,4,0,0.29,0.05,0.34,0.29,0.34,Matches,9fdbff28
+283,Justine Vanhaevermaet,be BEL,DFMF,Everton,31,1992,19,17,1509,16.8,1,0,1,1,0,1,3,0,0.06,0,0.06,0.06,0.06,Matches,301d1778
+284,Katrine Veje,dk DEN,DFMF,Everton,32,1991,13,9,866,9.6,0,2,2,0,0,0,0,0,0,0.21,0.21,0,0.21,Matches,613c3da2
+285,Matilda Vinberg,se SWE,FWMF,Tottenham,20,2003,11,4,357,4,1,1,2,1,0,0,1,0,0.25,0.25,0.5,0.25,0.5,Matches,01cd8211
+286,Barbora Votíková,cz CZE,GK,Tottenham,26,1996,6,6,540,6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,e1daa1c0
+287,Megan Walsh,ie IRL,GK,West Ham,28,1994,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8694b82e
+288,Lia Wälti,ch SUI,MF,Arsenal,30,1993,15,13,1148,12.8,0,3,3,0,0,0,2,0,0,0.24,0.24,0,0.24,Matches,5410bdaa
+289,Mari Ward,eng ENG,MF,Bristol City,17,2006,21,1,468,5.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2e2bb007
+290,Clare Wheeler,au AUS,MF,Everton,25,1998,22,19,1794,19.9,0,1,1,0,0,0,1,0,0,0.05,0.05,0,0.05,Matches,e0190cc0
+291,Aileen Whelan,eng ENG,MFFW,Leicester City,31,1991,19,11,1055,11.7,1,1,2,1,0,0,1,0,0.09,0.09,0.17,0.09,0.17,Matches,11c33ab6
+292,Laura Wienroither,at AUT,DF,Arsenal,24,1999,4,0,43,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,f8146853
+293,Annie Wilding,wls WAL,DF,Everton,19,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2d928dae
+294,Rachel Williams,eng ENG,MFFW,Manchester Utd,35,1988,21,2,578,6.4,5,1,6,5,0,0,1,0,0.78,0.16,0.93,0.78,0.93,Matches,2fa8aa92
+295,Leah Williamson,eng ENG,DF,Arsenal,26,1997,9,8,644,7.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9a40ae1f
+296,Jessica Wooley,eng ENG,FW,Bristol City,22,2001,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,689223d5
+297,Lotte Wubben-Moy,eng ENG,DF,Arsenal,24,1999,18,17,1512,16.8,1,0,1,1,0,0,4,0,0.06,0,0.06,0.06,0.06,Matches,f254ebd6
+298,Shae Yanez,us USA,GK,Bristol City,26,1997,7,7,630,7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,26f967a8
+299,Shelina Zadorsky,ca CAN,DF,West Ham,30,1992,9,8,711,7.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,23aceac3
+300,Shelina Zadorsky,ca CAN,DF,Tottenham,30,1992,2,1,118,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,23aceac3
+301,Katie Zelem,eng ENG,MF,Manchester Utd,27,1996,22,22,1980,22,1,6,7,0,1,1,3,0,0.05,0.27,0.32,0,0.27,Matches,213a7877
+302,Julia Zigiotti Olme,se SWE,MFFW,Brighton,25,1997,20,18,1568,17.4,0,1,1,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches,d3f7c3ef
+303,Manuela Zinsberger,at AUT,GK,Arsenal,27,1995,18,18,1620,18,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c7dc2a33
+304,Jessica Ziu,ie IRL,MF,West Ham,21,2002,16,11,882,9.8,0,1,1,0,0,0,1,0,0,0.1,0.1,0,0.1,Matches,5fdaf742
